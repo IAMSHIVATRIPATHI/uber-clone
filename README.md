@@ -59,3 +59,4 @@
  **Responsive on Android and iOS**: Optimized for both Android and iOS devices.
 
 and many more, including code architecture and reusability
+# uber-clone
